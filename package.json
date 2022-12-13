@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jlippold/ErrorServer#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs-extra": "^7.0.0"
   }
 }
